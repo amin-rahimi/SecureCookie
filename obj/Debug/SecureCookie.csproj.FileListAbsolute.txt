@@ -1,0 +1,5 @@
+c:\users\amin\documents\visual studio 2012\Projects\SecureCookie\SecureCookie\bin\SecureCookie.dll
+c:\users\amin\documents\visual studio 2012\Projects\SecureCookie\SecureCookie\bin\SecureCookie.pdb
+c:\users\amin\documents\visual studio 2012\Projects\SecureCookie\SecureCookie\obj\Debug\SecureCookie.csprojResolveAssemblyReference.cache
+c:\users\amin\documents\visual studio 2012\Projects\SecureCookie\SecureCookie\obj\Debug\SecureCookie.dll
+c:\users\amin\documents\visual studio 2012\Projects\SecureCookie\SecureCookie\obj\Debug\SecureCookie.pdb
